@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lara009
 - 👀 I’m interested in space and technology
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning game development
+- 📫 How to reach me: larakiran09@gmail.com
+- -> python ✔️
 
 <!---
 lara009/lara009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
